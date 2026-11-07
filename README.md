@@ -9,10 +9,10 @@
 
 ---
 
-## 📌 Deskripsi Repository
+##  Deskripsi Repository
 Repository publik ini dirancang khusus sebagai media penyimpanan digital, dokumentasi terstruktur, serta wadah rekapitulasi seluruh rangkaian materi yang dipelajari selama mengikuti kegiatan **Day-1 Proyek Workshop-26** yang diselenggarakan oleh Departemen Pendidikan & Teknologi **[HIMATIK PNJ](https://himatikpnj.com/)**. Melalui pemanfaatan platform version control ini, seluruh catatan harian, rangkuman, dan hasil evaluasi dikoordinasikan dalam satu tempat yang transparan dan mudah diakses.
 
-## 🎯 Tujuan Pembuatan Repository
+##  Tujuan Pembuatan Repository
 1. **Arsip Digital Terstruktur:** Menyimpan seluruh materi, modul, serta catatan penting dari sesi workshop agar dapat ditinjau kembali di kemudian hari.
 2. **Pemenuhan Penugasan Akademis:** Menuntaskan misi individu yang diwajibkan bagi setiap peserta dalam rangkaian acara **[TIKMENGAJAR](https://himatikpnj.com/expectik)**.
 3. **Penguasaan Tools Industri:** Melatih keterampilan teknis dasar dalam menggunakan Git, mengelola repository dengan visibilitas publik, serta mengoptimalkan format **[GitHub](https://github.com/platform)**.
@@ -20,7 +20,7 @@ Repository publik ini dirancang khusus sebagai media penyimpanan digital, dokume
 
 ---
 
-## 📝 Dokumentasi & Rangkuman Kegiatan Workshop Day 1
+##  Dokumentasi & Rangkuman Kegiatan Workshop Day 1
 
 ### 1. Rangkuman Materi Utama
 Pada sesi materi utama hari pertama, pemateri menyampaikan pengenalan mendalam mengenai dasar-dasar manajemen proyek teknologi dan pentingnya kolaborasi berbasis digital. Beberapa poin inti dari materi tersebut meliputi:
